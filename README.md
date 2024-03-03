@@ -1,4 +1,4 @@
-![javascript-original](https://github.com/Bittukr7479/Bittukr7479/assets/123286618/c12e8750-3d03-4b89-9e32-235934046a02)### Hi there 👋
+### Hi there 👋
 
 I'm Bittu from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like python, Django. I also enjoy wireframing, ui, ux, and design in general.
 Tech languages:
