@@ -16,13 +16,7 @@ Skills: Js / HTML / CSS
 - 💬 Ask me about my skill.
 - 📫 How to reach me: kumarbittuu26@gmail.com.
 
-## Let's Connect
-
-- [LinkedIn](https://github.com/Bittukr7479)
-- [Twitter](https://twitter.com/bittuku51471147)
-- [Chess.com](https://www.chess.com/member/kumar_bittu7479)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/bittuku51471147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bittuku51471147" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://github.com/bittukr7479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/bittukr7479" height="30" width="40" /></a>
