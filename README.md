@@ -1,13 +1,6 @@
 ### Hi there 👋
 
 I'm Bittu from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like python, Django. I also enjoy wireframing, ui, ux, and design in general.
-Tech languages:
-C
-C++
-javascript
-python
-
-Skills: Js / HTML / CSS
 
 ## About Me
 
