@@ -65,4 +65,5 @@ I'm Bittu from India, and I do content on Design and Development. I really enjoy
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="cplusplus" width="40" height="40">
 </p>
