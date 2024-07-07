@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bittu from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like python, Django. I also enjoy wireframing, ui, ux, and design in general.
+I'm Bittu from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like python, Django, js... I also enjoy wireframing, ui, ux, and design in general.
 
 ## About Me
 
