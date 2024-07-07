@@ -6,6 +6,7 @@ Hi, I'm Bittu from India, and I create content on Design and Development. I have
 
 - 🌱 I’m currently learning and improving web development skills.
 - 👯 I’m looking to collaborate on open source projects.
+- ♟️ Chess lover and problem solver passionate about coding and design.
 - 💬 Ask me about my skill.
 - 📫 How to reach me: kumarbittuu26@gmail.com.
 
