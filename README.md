@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bittu from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like python, Django, js... I also enjoy wireframing, ui, ux, and design in general.
+Hi, I'm Bittu from India, and I create content on Design and Development. I have a strong passion for learning languages and frameworks like Python, Django, and JavaScript. Recently, I've been focusing on the MERN stack (MongoDB, Express.js, React, and Node.js) to build full-stack web applications. I also enjoy wireframing, UI, UX, and design in general.
 
 ## About Me
 
