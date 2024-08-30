@@ -59,8 +59,8 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake eating my contributions/>
 </div>
 <br/>
-
 <br/>
+<h1 align="center"></h1>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Bittukr7479&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
