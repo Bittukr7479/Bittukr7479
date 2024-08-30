@@ -1,13 +1,9 @@
-<img align="center" alt="Coding" src="https://github.com/Bittukr7479/Bittukr7479/assets/143955797/e5a6d997-deaf-4f4f-88c2-18e9c90a688c" />
-<hr/>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bittu!;Mern Stack+Developer+💻;" />
-</h1>
+
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
 <h2 align="center">👋 I'm Bittu, a passionate Mern Stack developer and coding enthusiast from India🌍!</h2>
 <br/>
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
-<img align="right" width="250" alt="Coding" src="https://github.com/Bittukr7479/Bittukr7479/assets/143955797/3ac3278b-8a5e-46f1-9f9e-c01e3ee3874a" />
+<!-- <img align="right" width="250" alt="Coding" src="https://github.com/Bittukr7479/Bittukr7479/assets/143955797/3ac3278b-8a5e-46f1-9f9e-c01e3ee3874a" /> -->
 <p align="left"> 🌟 Passionate about Web Development 🚀 </p>
 <p align="left"> 🎨 Creative Tech Enthusiast 💡 </p>
 <p align="left"> ♟️ Chess Lover and Problem Solver 💪 </p>
@@ -57,10 +53,10 @@
 <br/>
 <hr/>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<!--   <h2>🐍 My Contributions 🐍</h2> -->
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bittukr7479/Bittukr7479/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bittukr7479/Bittukr7479/output/github-contribution-grid-snake.svg" /> -->
+<!--   <br/><br/><br/> -->
 </div>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -78,5 +74,3 @@
 </h1>
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
