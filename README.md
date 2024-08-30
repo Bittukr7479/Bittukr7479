@@ -1,3 +1,4 @@
+![download (2)](https://github.com/user-attachments/assets/a16d9650-0d51-4c5c-913d-d670d46f7c5e)
 
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
 <h2 align="center">👋 I'm Bittu, a passionate Mern Stack developer and coding enthusiast from India🌍!</h2>
@@ -52,6 +53,7 @@
 </div>
 <br/>
 <hr/>
+
 <div align="center">
 <!--   <h2>🐍 My Contributions 🐍</h2> -->
   <br>
