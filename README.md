@@ -55,12 +55,11 @@
 <hr/>
 
 <div align="center">
-<!--   <h2>🐍 My Contributions 🐍</h2> -->
-  <br>
-  https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
-  <!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bittukr7479/Bittukr7479/output/github-contribution-grid-snake.svg" /> -->
-<!--   <br/><br/><br/> -->
+  <h2>🐍 My Contributions 🐍</h2>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake eating my contributions/>
+  
 </div>
+<br><br>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
