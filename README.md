@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/bittukr7479" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="[https://stackoverflow.com/users/your-id](https://stackoverflow.com/users/23372026/bittu-kumar)" target="blank">
+  <a href="https://stackoverflow.com/users/23372026/bittu-kumar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
   <a href="https://fb.com/your-id" target="blank">
