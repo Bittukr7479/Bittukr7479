@@ -1,6 +1,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Bittukr7479&label=Profile%20views&color=yellow&style=flat)
-<br/>💙 I contribute to open-source projects. <br/>
-If my work helps you, you can support me via GitHub <b>Sponsors</b>.
 
 <!-- Profile Header -->
 <h4 align="center">🚀 Welcome to My GitHub Universe! 🚀</h4>
@@ -73,3 +71,5 @@ If my work helps you, you can support me via GitHub <b>Sponsors</b>.
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+💖;Let's+Connect+and+Build+Together!+🚀;" />
 </h1>
+<br/>💙 I contribute to open-source projects. <br/>
+If my work helps you, you can support me via GitHub <b>Sponsors</b>.
